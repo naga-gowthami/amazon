@@ -1,0 +1,2 @@
+printf("username");
+scanf("passwod");
